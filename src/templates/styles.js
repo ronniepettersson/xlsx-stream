@@ -6,7 +6,7 @@ export default `<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
     xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac"
 >
       <numFmts count="1"> 
-        <numFmt numFmtId="170" formatCode="yyyy-mm-dd hh:mm:ss" /> 
+        <numFmt numFmtId="170" formatCode="yyyy-mm-dd" /> 
     </numFmts> 
     <fonts count="1" x14ac:knownFonts="1">
             <font>
